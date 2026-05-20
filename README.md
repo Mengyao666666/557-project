@@ -35,6 +35,8 @@ We apply change point detection to test whether nonlinear features identify stru
 We use logistic regression in a recursive walk-forward setting to evaluate out-of-sample prediction. This tests whether nonlinear features improve future stress detection beyond conventional financial indicators.
 
 ## Main Findings
+<img width="1063" height="640" alt="image" src="https://github.com/user-attachments/assets/2e4870f7-b360-42c5-bafd-305bc94d4fe5" />
+
 
 The results suggest that nonlinear features are useful, but their value depends on the type of stress event.
 
